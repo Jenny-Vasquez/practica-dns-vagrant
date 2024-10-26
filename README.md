@@ -53,6 +53,7 @@ Finalmente, se realizaron comprobaciones para asegurar la correcta configuració
 Imágenes de referencia:
 
 - **Imagen 1:** Configuración de `Vagrantfile`.
+   ![Configuración de named.conf.local en Tierra] (./imagenes/imagen1.png)
 - **Imagen 2:** Configuración de `named.conf.options` en "Tierra".
 - **Imagen 3:** Configuración de `named.conf.local` en "Tierra".
 - **Imagen 4:** Archivo `db.sistema.test`.
