@@ -45,11 +45,6 @@ Luego de finalizar la configuración de "Tierra," se configuró el DNS en la má
 ### Automatización de la Configuración
 
 Para facilitar la replicación del entorno, se ajustó el proceso de provisión de cada VM. Esto incluyó la copia automática de archivos a los directorios correspondientes mediante líneas adicionales en los scripts de provisión, garantizando la consistencia del sistema en distintos entornos.
-
-### Verificación de Configuración
-
-Finalmente, se realizaron comprobaciones para asegurar la correcta configuración del DNS, siguiendo los pasos de verificación indicados en la práctica.
-
 Imágenes de referencia:
 
 - **Imagen 1:** Configuración de `Vagrantfile`.
@@ -80,4 +75,22 @@ Imágenes de referencia:
   
   ![Test con test.sh](imagenes/imagen7.png)
   
+### Verificación de Configuración
+
+Finalmente, se realizaron comprobaciones para asegurar la correcta configuración del DNS, siguiendo los pasos de verificación indicados en la práctica.
+
+  ![Verificacion comprobacion](imagenes/comprobacion.png)
+  
+  ![Verificacion comprobacion2](imagenes/comprobacion2.png)
+  
+  ![Verificacion comprobacion3](imagenes/comprobacion3.png)
+  
+  ![Verificacion comprobacion4](imagenes/comprobacion4.png)
+  
+  ![Verificacion comprobacion5](imagenes/comprobacion5.png)
+
+  ![Verificacion comprobacion6](imagenes/comprobacion6.png)
+
+
+
 
