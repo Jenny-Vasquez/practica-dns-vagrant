@@ -53,17 +53,17 @@ Finalmente, se realizaron comprobaciones para asegurar la correcta configuració
 Imágenes de referencia:
 
 - **Imagen 1:** Configuración de `Vagrantfile`.
-  ![Configuración de Vagrantfile](images/imagen1.png)
+  ![Configuración de Vagrantfile](imagenes/imagen1.png)
 - **Imagen 2:** Configuración de `named.conf.options` en "Tierra".
-  ![Configuración de named.conf.options en Tierra](images/imagen2.png)
+  ![Configuración de named.conf.options en Tierra](imagenes/imagen2.png)
 - **Imagen 3:** Configuración de `named.conf.local` en "Tierra".
-  ![Configuración de named.conf.local en Tierra](images/imagen3.png)
+  ![Configuración de named.conf.local en Tierra](imagenes/imagen3.png)
 - **Imagen 4:** Archivo `db.sistema.test`.
-  ![Archivo db.sistema.test](images/imagen4.png)
+  ![Archivo db.sistema.test](imagenes/imagen4.png)
 - **Imagen 5:** Archivo `db.192`.
-   ![Archivo db.192](images/imagen5.png)
+   ![Archivo db.192](imagenes/imagen5.png)
 - **Imagen 6:** Configuración de `named.conf.local` en "Venus".
-  ![Configuración de named.conf.local en Venus](images/imagen6.png)
+  ![Configuración de named.conf.local en Venus](imagenes/imagen6.png)
 - **Imagen 7:** Test con test.sh.
-  ![Test con test.sh](images/imagen7.png)
+  ![Test con test.sh](imagenes/imagen7.png)
 
